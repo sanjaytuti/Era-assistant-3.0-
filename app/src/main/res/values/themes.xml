@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Era" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#A855F7</item>
+        <item name="colorPrimaryVariant">#1A0B2E</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#EC4899</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">#1A0B2E</item>
+        <item name="android:navigationBarColor">#1A0B2E</item>
+        <item name="android:windowBackground">#1A0B2E</item>
+    </style>
+</resources>
