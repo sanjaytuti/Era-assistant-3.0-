@@ -1,0 +1,2 @@
+-keep class com.example.era.** { *; }
+-dontwarn com.google.ai.**
